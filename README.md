@@ -30,5 +30,5 @@ Os projetos foram desenvolvidos durante a graduação em Ciência da Computaçã
 
 ## Contato
 
-- LinkedIn: `adicione-seu-link-aqui`
-- GitHub: `adicione-seu-link-aqui`
+- LinkedIn: `https://www.linkedin.com/in/thiago-wyse`
+- GitHub: `https://github.com/thiagowyseoficial/`
